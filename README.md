@@ -36,4 +36,6 @@ The widget comes with a set of default images, but you can use your own. Square 
 	inputStarImage: '/interface/star/input_star.png'
 }
 ```
+### Preview
+<img src="http://nirajmaharjan.com.np/remote/rating.png"/>
 
