@@ -39,3 +39,4 @@ The widget comes with a set of default images, but you can use your own. Square 
 ### Preview
 <img src="http://nirajmaharjan.com.np/remote/rating.png"/>
 
+<a href="http://nirajmaharjan.com.np/remote/rating-alloy-plugin.swf">Demo SWF</a>
